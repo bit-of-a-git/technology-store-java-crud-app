@@ -1,18 +1,5 @@
 # Wearable Devices Technology Store
 
-## **Table of Contents**
-
-- [About the Project](#about-the-project)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
-
 ## **About the Project**
 
 This Java MVC CRUD app was submitted as the final assignment for South East Technological University's Programming module. This is a menu-driven, terminal-based app that can store details about Smart Bands and Smart Watches. Information entered via the app is persisted in XML files.
